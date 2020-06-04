@@ -32,6 +32,8 @@ namespace MediaPlayer
                 for (int i = 0; i < files.Length; i++)
                 {
                     listBox1.Items.Add(files[i]);
+                    MessageBox.Show("Hi");
+                    MessageBox.Show("Test");
                 }
             }
         }
