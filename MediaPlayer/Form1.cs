@@ -34,6 +34,7 @@ namespace MediaPlayer
                     listBox1.Items.Add(files[i]);
                     MessageBox.Show("Hi");
                     MessageBox.Show("Test");
+                    MessageBox.Show("Version 2");
                 }
             }
         }
